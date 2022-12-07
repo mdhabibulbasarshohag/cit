@@ -1,0 +1,54 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+a {
+    margin: 0;
+    padding: 0;
+}
+
+a {
+    text-decoration: none;
+    display: inline-block;
+}
+
+/* header section start */
+
+
+/* header section end */
+
+
+/* navbar section start */
+
+
+/* navbar section end */
+
+
+
+/* banner section start */
+#banner {
+    background: url(../img/banner.webp);
+    background-position: top right;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 600px;
+}
+
+.banner-text {
+    display: flex;
+    justify-content: center;
+    align-items: center !important;
+    line-height: 200px !important;
+}
+
+/* banner section end */
